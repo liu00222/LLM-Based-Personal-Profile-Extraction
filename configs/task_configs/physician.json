@@ -1,0 +1,13 @@
+{
+    "task_info":{
+        "task":"info_extraction",
+        "type":"text_generation"
+    },
+    "dataset_info":{
+        "dataset":"physician",
+        "path":"./data/physician",
+        "label_path":"./data/physician/labels.json",
+        "icl_path":"./data/physician",
+        "icl_label_path":"./data/physician/labels.json"
+    }
+}

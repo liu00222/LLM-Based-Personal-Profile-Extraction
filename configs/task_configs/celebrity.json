@@ -1,0 +1,13 @@
+{
+    "task_info":{
+        "task":"info_extraction",
+        "type":"text_generation"
+    },
+    "dataset_info":{
+        "dataset":"celebrity",
+        "path":"./data/celebrity",
+        "label_path":"./data/celebrity/labels.json",
+        "icl_path":"./data/celebrity",
+        "icl_label_path":"./data/celebrity/labels.json"
+    }
+}

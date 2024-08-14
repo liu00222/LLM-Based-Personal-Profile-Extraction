@@ -1,0 +1,13 @@
+{
+    "task_info":{
+        "task":"info_extraction",
+        "type":"text_generation"
+    },
+    "dataset_info":{
+        "dataset":"synthetic",
+        "path":"./data/synthetic",
+        "label_path":"./data/synthetic/labels.json",
+        "icl_path":"./data/synthetic",
+        "icl_label_path":"./data/synthetic/labels.json"
+    }
+}

@@ -6,7 +6,7 @@ This is the code for evaluating personal profile extraction based on LLMs and co
 
 ## Data
 
-Please download the data from: https://drive.google.com/file/d/1bmL4Z\_btNYnVRAxC5xXnwkQhdVsJwy1Y/view?usp=drive\_link. Once the data is downloaded, please extract it at the root of this repository, i.e., so it looks like ./data. 
+Please download the data from [this link](https://drive.google.com/file/d/1bmL4Z_btNYnVRAxC5xXnwkQhdVsJwy1Y/view?usp=drive_link). Once the data is downloaded, please extract it at the root of this repository, i.e., so it looks like ./data. 
 
 To view the three datasets (i.e., synthetic, celebrity, and physician), please refer to ./data/. Here is the roadmap:
 

@@ -2,7 +2,7 @@
 
 
 
-This is the code for evaluating personal profile extraction based on LLMs and countermeasures. 
+This is the code for evaluating personal profile extraction based on LLMs and countermeasures. Please see the manuscript [here](https://arxiv.org/abs/2408.07291). 
 
 ## Data
 
@@ -40,6 +40,17 @@ Most of the code are self-explanatory with inline comments for explanation. To c
 
 The log files can be seen in ./log/ and the experimental results can be seen in ./result/. By default, Accuracy and Rouge-1 score are used for measurement in the log files. For further evalaution using BERT score, users can leverage ./evaluate.py. 
 
-### Citation
+## Citation
 
-TODO
+If you use this code, please cite the following paper:
+
+```
+@misc{liu2024extraction,
+      title={Evaluating Large Language Model based Personal Information Extraction and Countermeasures}, 
+      author={Yupei Liu and Yuqi Jia and Jinyuan Jia and Neil Zhenqiang Gong},
+      year={2024},
+      eprint={2408.07291},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
